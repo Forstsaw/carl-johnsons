@@ -12,9 +12,6 @@ Published : 07/05/2020
 
 Our presentation : https://www.youtube.com/watch?v=t0zeZ12ryDQ
 
-Notes:
-This project so messy, inconsistency, lack of bug, etc.
-I will try to remake this ASAP using laravel framework, check out my website for more project available.
 
 Checkout my social media:
 
