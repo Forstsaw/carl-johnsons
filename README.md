@@ -18,4 +18,5 @@ I will try to remake this ASAP using laravel framework, check out my website for
 
 Checkout my social media:
 Website : https://vinsonphoan.tech/
+
 Linkedin : https://www.linkedin.com/in/vinsonphoan/
