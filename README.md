@@ -8,7 +8,7 @@ roles:
 3. khevin - Database designer 
 4. Gilbert - Web designer
 
-My task is implement our database design and logic design/flowchart to a website 
+My task is implement our database design and logic design/flowchart to a website and make a dynamic html
 
 Published : 07/05/2020
 
