@@ -4,7 +4,7 @@ Carl Johnsons is a simple bakery online shop with a manual system payment.
 This is my first project using php after learn from my university. This project build with my teammate in a month and here are our 
 roles:  
 1. Vinson Phoan - Team Leader and Backend developer 
-2. ammar - frontend developer 
+2. Ammar - frontend developer 
 3. khevin - Database designer 
 4. Gilbert - Web designer
 
